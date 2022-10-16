@@ -40,7 +40,7 @@ d)	**Imágenes de ilustración**
 
 ![image](https://user-images.githubusercontent.com/115906068/196015039-f2cc85c2-fbaa-45e3-8cbf-dfb80156fc32.png)
 
-e)	###Video
+e)	**Video**
 
 •	Redes sociales: Cortex
 Hay un pequeño resumen que habla de la aplicación Cortex IA pero está en inglés. link: https://www.capterra.es/software/172547/cortex#about 
