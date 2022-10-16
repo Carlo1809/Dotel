@@ -56,7 +56,8 @@ f)	**Fecha de ingreso de la entrada al repositorio.**
 
 
 
+
 **Nombre:** Carlo Manuel Dotel Jose
 
-**Matricula:**319-6802 
+**Matricula:** 319-6802 
 
