@@ -50,7 +50,7 @@ https://youtu.be/MQMhjEYTqAU
 
 f)	**Fecha de ingreso de la entrada al repositorio.**
 
-14/10/2022
+15/10/2022
 
 
 
