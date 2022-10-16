@@ -2,12 +2,12 @@
 
 ## Bienvenido al repositorio de aplicaciones de la IA
 
-a)	###Nombre de las dos aplicaciones de la IA en la actualidad.
+a)	### Nombre de las dos aplicaciones de la IA en la actualidad.
  
 1. *Redes sociale: Cortex.*
 2. *Chatbost: Liveperson.*
  
-b)	###Breve descripción de las aplicaciones:
+b)	### Breve descripción de las aplicaciones:
 
 1.	*Redes sociales: Cortex:* 
 Es una aplicación de IA que se enfoca en mejorar el aspecto visual de las imágenes y vídeos de los posts en redes sociales con el objetivo de que generen más interacción y puedan volverse virales. Les dice a los usuarios qué fotos, palabras clave, hashtags y colores tienden a inspirar a su audiencia, y programa automáticamente.
