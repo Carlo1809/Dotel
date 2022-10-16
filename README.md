@@ -19,6 +19,7 @@ c)	**Enlace (dirección web) donde se podrían validar la información.**
 
 •	Redes sociales: Cortex dirección web:
 https://www.getapp.es/software/112647/cortex
+
 •	Chatbots: Liveperson dirección web:
 https://www.liveperson.com/
 
