@@ -34,6 +34,19 @@ d)	**Imágenes de ilustración**
 ![image](https://user-images.githubusercontent.com/115906068/196014983-29894909-267c-4b45-b21b-558320e6144d.png)
 
 
+•	**Chatbots: Liveperson**
 
+![image](https://user-images.githubusercontent.com/115906068/196015036-dd427ee9-ca53-442a-9903-66bef645ace0.png)
 
+![image](https://user-images.githubusercontent.com/115906068/196015039-f2cc85c2-fbaa-45e3-8cbf-dfb80156fc32.png)
+
+e)	**Video**
+
+•	Redes sociales: Cortex
+Hay un pequeño resumen que habla de la aplicación Cortex IA pero está en inglés. link: https://www.capterra.es/software/172547/cortex#about 
+
+•	Chatbots: Liveperson
+https://youtu.be/MQMhjEYTqAU
+
+f)	**Fecha de ingreso de la entrada al repositorio.**
 
